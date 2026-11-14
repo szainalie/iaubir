@@ -7,6 +7,7 @@ https://github.com/zahra-azd/mabahes-vizheh1  (زهراعلیزاده)
 (محمدرضا زینعلی) (https://github.com/mohamadreza2780/special-topics)
 
 محمدمهدی مسلم (https://github.com/sabrsbz/Mabahes-v.git)
+امیر حسین ناصری (https://github.com/amirnsry1383-source/mabaheth-vizeh)
 Mohammed Mahdi Safari ( https://github.com/MahdiSfri/Guess-Number )
 محمد معین لطیفی (https://github.com/mohammad-moein-latifi/python-lab)
 امیر محمد رحیمی (https://github.com/rahimigazari/mabhas-vizheh/tree/main)
